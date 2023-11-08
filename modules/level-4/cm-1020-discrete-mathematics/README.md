@@ -85,6 +85,7 @@ One two hour unseen written examination and coursework (Type I)
 - [Set Theory for Computer Science](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/set_theory_for_computer_science.pdf).
 - [Solving Linear Recurrence Relations](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/solving_linear_recurrence_relations.pdf) - From University of California, Berkeley, [from this page](https://math.berkeley.edu/~arash/55/8_2.pdf).
 - [A Transition to Advanced Mathematics](https://math.byu.edu/~doud/transition/) -From Birgham Young University.  "Contains graphical explanations on topics related to Discrete Mathematics and Real Analysis, meant as a light and beginner friendly introduction to Advanced Topics in Mathematics "
+- [Lecture notes by László Lovász] (https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf)
 
 #### Cambridge Discrete math recommended reading:
 Recommended reading
@@ -98,7 +99,7 @@ Lehman, E.; Leighton, F.T.; Meyer, A.R. (2014). Mathematics for computer science
 Velleman, D.J. (2006). How to prove it: a structured approach. Cambridge University Press (Second Edition).
 
   ##### Cam DM
-    -https://www.cl.cam.ac.uk/teaching/2324/DiscMath/
+  -https://www.cl.cam.ac.uk/teaching/2324/DiscMath/
 #### Complementary learning
 
 - [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=13) - _"Explore the real-world applications of mathematics through algebra, calculus, statistics, and geometry. You can earn a free certificate of completion for any of these online Mathematics courses, or use many of them to earn credit in leading college programs."_

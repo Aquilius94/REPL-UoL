@@ -32,7 +32,9 @@ graphing and linear algebra.
 
 ## Professor(s)
 
-- Dr. Sarah Santos
+- Dr. Sarah Santos (In past iteration of Numerical Mathematics module)
+- Dr. Gerardo Aquina
+- Dr. Mark D' Inverno
 
 ## Topics previously covered (numerical mathematics)
 
@@ -49,7 +51,7 @@ graphing and linear algebra.
 
 ## Assessment
 
-One two hour unseen written examination and coursework (Type I)
+One two hour proctored written examination and coursework (Type I)
 
 ## Module specification
 
@@ -65,9 +67,20 @@ One two hour unseen written examination and coursework (Type I)
 
 ## Resources
 
+
 ### Complementary learning
 
 - [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=13) - _"Explore the real-world applications of mathematics through algebra, calculus, statistics, and geometry. You can earn a free certificate of completion for any of these online Mathematics courses, or use many of them to earn credit in leading college programs."_
+[REVISION NEEDED]
+- [Cambridge International AS & A Level Mathematics]: Pure Mathematics 1 Coursebook by Sue Pemberton (Author), Julian Gilbey (Editor)  ISBN 13:  978-1108407144
+-  [Cambridge International AS & A Level Mathematics: Pure Mathematics 2 & 3 Coursebook] by Sue Pemberton (Author), Julianne Hughes (Author), Julian Gilbey (Editor)
+   ISBN 13: 978-1108407199
+-[Cambridge International AS and A Level Mathematics: Pure Mathematics 1 Coursebook] by Hugh Neill (Author), Douglas Quadling (Author), Julian Gilbey (Author)
+ ISBN 13 :978-1316600207
+ -[Cambridge International AS & A Level Mathematics: Pure Mathematics 2 & 3 Coursebook Digital Edition Sue Pemberton, Julianne Hughes, Julian Gilbey (ed.)]
+  ISBN: 9781108407205
+
+
 
 ### Reading List
 
