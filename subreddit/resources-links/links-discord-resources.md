@@ -13,6 +13,14 @@ Coursera's webpage for the University of London's BSc Computer Science programme
 Admissions prospectus on the BSc Computer Science for interested students. A polished, informative summary of the Programme.
 :page_facing_up: https://london.ac.uk/sites/default/files/prospectuses/computer-science-prospectus-2020.pdf
 
+**BSc Computer Science Prospectus (2021)**
+Admissions prospectus on the BSc Computer Science for interested students. A polished, informative summary of the Programme.
+:page_facing_up: https://www.london.ac.uk/sites/default/files/prospectuses/computer-science-prospectus-2021.pdf
+
+**BSc Computer Science Prospectus (2023-2024)**
+Admissions prospectus on the BSc Computer Science for interested students. A polished, informative summary of the Programme.
+:page_facing_up: https://www.london.ac.uk/sites/default/files/prospectuses/bsc-computer-science-prospectus.pdf
+
 **Structure & Module Descriptions**
 A high-level summary of the 22 modules and Final Project which makes up the Programme, seperated by Levels.
 :link: https://london.ac.uk/computer-science-structure
@@ -24,6 +32,10 @@ The 'Bible' of the BSc Computer Science degree. _If you will only read one docum
 **Programme Specification**
 A broad outline and overview of the structure and content of the degree, entry level qualifications, and learning outcomes.
 :page_facing_up: https://london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf
+
+**BSc Computer Science Specification (2022-2023)**
+A broad outline and overview of the structure and content of the degree, entry level qualifications, and learning outcomes.
+:page_facing_up: https://www.london.ac.uk/sites/default/files/programme-specifications/progspec-bsc-computer-science.pdf
 
 :gb: **About the University of London** :gb:
 Links :link: and PDFs :page_facing_up: about the University of London in general, as well as resources for students.
