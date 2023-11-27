@@ -22,7 +22,7 @@ Admissions prospectus on the BSc Computer Science for interested students. A pol
 :page_facing_up: https://www.london.ac.uk/sites/default/files/prospectuses/bsc-computer-science-prospectus.pdf
 
 **Structure & Module Descriptions**
-A high-level summary of the 22 modules and Final Project which makes up the Programme, seperated by Levels.
+A high-level summary of the 22 modules and Final Project which makes up the Programme, separated by Levels.
 :link: https://london.ac.uk/computer-science-structure
 
 **Programme Regulations (2021-2022)**
@@ -63,7 +63,7 @@ Important legal contract which covers the consumer rights and legal protections 
 **List of Exam Centres (Worldwide)**
 :page_facing_up: https://my.london.ac.uk/documents/10197/2926462/examcentres-worldwide2/659d044f-25c3-2a01-fd7e-0667e3d9e71a
 
-**List of Exam Centres (USA and Canda)**
+**List of Exam Centres (USA and Canada)**
 :page_facing_up: https://my.london.ac.uk/documents/10197/2926462/examcentres-northamerica.pdf/da80d4a8-00db-053c-283a-0757f88b5e85
 
 **Table of Country Bands (for Tuition)**
@@ -141,7 +141,7 @@ Explains how grades and optional assignments work, which segues into a more phil
 :link: https://www.reddit.com/r/UniversityOfLondonCS/comments/hgx9zs/lets_talk_about_the_balance_of_formative/
 
 **Legal Protections for the Distance-Learning Student: The Rights and Protections you are Entitled To**
-Gives a overview of the Student Terms and Conditions document, and outlines the rights to refund and withdrawl.
+Gives a overview of the Student Terms and Conditions document, and outlines the rights to refund and withdrawal.
 :link: https://www.reddit.com/r/UniversityOfLondonCS/comments/hldddc/legal_protections_for_the_distancelearning/
 
 **Everything You Want to Know about the Institutional Accreditation of the University of London et al**
