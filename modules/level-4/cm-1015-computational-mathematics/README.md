@@ -73,8 +73,7 @@ One two hour proctored written examination and coursework (Type I)
 - [Saylor Academy](https://learn.saylor.org/course/index.php?categoryid=13) - _"Explore the real-world applications of mathematics through algebra, calculus, statistics, and geometry. You can earn a free certificate of completion for any of these online Mathematics courses, or use many of them to earn credit in leading college programs."_
 [REVISION NEEDED]
 - [Cambridge International AS & A Level Mathematics]: Pure Mathematics 1 Coursebook by Sue Pemberton (Author), Julian Gilbey (Editor)  ISBN 13:  978-1108407144
--  [Cambridge International AS & A Level Mathematics: Pure Mathematics 2 & 3 Coursebook] by Sue Pemberton (Author), Julianne Hughes (Author), Julian Gilbey (Editor)
-   ISBN 13: 978-1108407199
+- [Cambridge International AS & A Level Mathematics: Pure Mathematics 2 & 3 Coursebook] by Sue Pemberton (Author), Julianne Hughes (Author), Julian Gilbey (Editor)ISBN 13: 978-1108407199
 -[Cambridge International AS and A Level Mathematics: Pure Mathematics 1 Coursebook] by Hugh Neill (Author), Douglas Quadling (Author), Julian Gilbey (Author)
  ISBN 13 :978-1316600207
  -[Cambridge International AS & A Level Mathematics: Pure Mathematics 2 & 3 Coursebook Digital Edition Sue Pemberton, Julianne Hughes, Julian Gilbey (ed.)]

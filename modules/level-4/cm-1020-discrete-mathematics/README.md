@@ -92,7 +92,7 @@ Recommended reading
 Biggs, N.L. (2002). Discrete mathematics. Oxford University Press (Second Edition).
 Davenport, H. (2008). The higher arithmetic: an introduction to the theory of numbers. Cambridge University Press.
 Hammack, R. (2013). Book of proof. Privately published (Second edition). Available at:
-http://www.people.vcu.edu/ rhammack/BookOfProof/index.html
+http://www.people.vcu.edu/rhammack/BookOfProof/index.html
 Houston, K. (2009). How to think like a mathematician: a companion to undergraduate mathematics. Cambridge University Press.
 Kozen, D.C. (1997). Automata and computability. Springer.
 Lehman, E.; Leighton, F.T.; Meyer, A.R. (2014). Mathematics for computer science. Available on-line.
@@ -110,15 +110,20 @@ _"The essentials readings for this course will come from the following text book
 
 - **Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Global Edition**
 - **David Mackinson, Sets, Logic and Maths for Computing, Springer Verlag. 2012**
-
+- **Thomas Koshy, Discrete Mathematics with Applications 1st edition**
 _This course does not require you to read the whole book, you will be given specific readings for each topic from these texts are listed with direct links on the Readings page for each topic. You will also be asked to do some independent research from online sources or using the University of London digital library."_
 
   - [Weekly Readings and Exercises for Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Global Edition](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/DM%20weekly%20reading%2C%207E%20global%20edition.pdf).
 
-##### Solutions to problems in the textbook Discrete Mathematics and its Applications
+
+##### Solutions to problems in the textbook Discrete Mathematics and its Applications by Kenneth, H, Rosen
 
 - [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
 - [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
+
+##### Solutions to Discrete Mathematics with Applications 1st edition by Thomas Koshy
+- [1st edition - step-by-step solutions](https://www.vaia.com/en-us/textbooks/math/discrete-mathematics-with-applications-1-edition/)
+
 
 #### Examples of past and current written exams
 
@@ -175,6 +180,7 @@ _This course does not require you to read the whole book, you will be given spec
       - [Prim's algorithm in 2 minutes — Review and example](https://www.youtube.com/watch?v=cplfcGZmX7I) - Michael Sambol
   - [Computer Sc - Discrete Mathematical Structures](https://www.youtube.com/view_play_list?p=0862D1A947252D20) (playlist) - Kamala Krithivasan
   - [Discrete Math 1: Sets, propositional logic, factorials, permutations, combinations, proofs, mathematical induction, injective/surjective/bijective functions, inverse functions, algorithms](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz) (playlist) - TheTrevTutor
+  - [Discrete Math: Set theory](https://www.youtube.com/playlist?list=PLztBpqftvzxWUF1psif8R7aUph4tsIuNw) (playlist) - WrathOfMath
   - [Discrete Math 2: Permutations, combinations, probability, graph theory, trees, Dijkstra's Algorithm](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2) (playlist) - TheTrevTutor
   - [Discrete Math I](https://www.youtube.com/watch?v=OApHaIMKMJE&list=PLl-gb0E4MII0L5lz8uQ8j5aSFQQHoAzXx) (playlist) - Kimberly Brehm
   - [Discrete mathematics](https://www.youtube.com/watch?v=2juspgYR7as&list=PLsFENPUZBqioyqffh3YZ2pKUg4uZFQJUY) (playlist) - GATEBOOK Video Lectures
