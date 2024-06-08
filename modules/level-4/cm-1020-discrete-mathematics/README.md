@@ -13,7 +13,8 @@
     - [Additional reading](#additional-reading)
     - [Complementary learning](#complementary-learning)
     - [Essential reading](#essential-reading)
-      - [Solutions to problems in the textbook Discrete Mathematics and its Applications](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
+      [Solutions to problems in the textbook Discrete Mathematics and its Applications by Kenneth H Rosen](#solutions-to-problems-in-the-textbook-discrete-mathematics-and-its-applications)
+      [Solutions to problems in the textbook Discrete Mathematics with Applications by Thomas Koshy 1st edition](#solutions-to-discrete-mathematics-with-applications)
     - [Examples of past and current written exams](#examples-of-past-and-current-written-exams)
     - [Kinks to be aware of](#kinks-to-be-aware-of)
     - [Mathematical symbols](#mathematical-symbols)
@@ -116,14 +117,14 @@ _This course does not require you to read the whole book, you will be given spec
   - [Weekly Readings and Exercises for Kenneth, H, Rosen. Discrete Mathematics and its Applications. (2012) 7th Global Edition](https://github.com/world-class/binary-assets/blob/master/modules/cm1020-dm/DM%20weekly%20reading%2C%207E%20global%20edition.pdf).
 
 
-##### Solutions to problems in the textbook Discrete Mathematics and its Applications by Kenneth, H, Rosen
+##### Solutions to problems in the textbook Discrete Mathematics and its Applications
 
 - [7th Edition (2012) - written explanations on Slader.com](https://www.slader.com/textbook/9780073383095-discrete-mathematics-with-applications-7th-edition)
 - [8th Edition (2018) - step-by-step solutions in videos on Numerade.com](https://www.numerade.com/books/discrete-mathematics-and-its-applications/)
 
-##### Solutions to Discrete Mathematics with Applications 1st edition by Thomas Koshy
-- [1st edition - step-by-step solutions](https://www.vaia.com/en-us/textbooks/math/discrete-mathematics-with-applications-1-edition/)
+##### Solutions to Discrete Mathematics with Applications
 
+- [1st edition - step-by-step solutions](https://www.vaia.com/en-us/textbooks/math/discrete-mathematics-with-applications-1-edition/)
 
 #### Examples of past and current written exams
 
