@@ -49,6 +49,9 @@ graphing and linear algebra.
 - Linear Transformations
 - Introduction to Combinatorics and Probability
 
+## Topics covered (until September 2024)
+-
+
 ## Assessment
 
 One two hour proctored written examination and coursework (Type I)
@@ -76,7 +79,7 @@ One two hour proctored written examination and coursework (Type I)
 - [Cambridge International AS & A Level Mathematics: Pure Mathematics 2 & 3 Coursebook] by Sue Pemberton (Author), Julianne Hughes (Author), Julian Gilbey (Editor)ISBN 13: 978-1108407199
 -[Cambridge International AS and A Level Mathematics: Pure Mathematics 1 Coursebook] by Hugh Neill (Author), Douglas Quadling (Author), Julian Gilbey (Author)
  ISBN 13 :978-1316600207
- -[Cambridge International AS & A Level Mathematics: Pure Mathematics 2 & 3 Coursebook Digital Edition Sue Pemberton, Julianne Hughes, Julian Gilbey (ed.)]
+-[Cambridge International AS & A Level Mathematics: Pure Mathematics 2 & 3 Coursebook Digital Edition Sue Pemberton, Julianne Hughes, Julian Gilbey (ed.)]
   ISBN: 9781108407205
 
 

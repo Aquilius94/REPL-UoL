@@ -188,6 +188,7 @@ _This course does not require you to read the whole book, you will be given spec
   - [Sets, sequences, functions, summations, matrices, algorithms](https://www.youtube.com/watch?v=ZMhoRLGNR5Y&list=PLl-gb0E4MII0HmmhGXBIFGppSSqqy_mV-) (playlist) - Kimberly Brehm
   - [Strong Induction Examples](https://www.youtube.com/watch?v=6O1s3_GsSHo) - Michael Barrus
   - [The Karnaugh Map - Rules of Simplification](https://www.youtube.com/watch?v=PA0kBrpHLM4) - Jonnie Palmer
+  - [Relations](https://www.youtube.com/watch?v=HXFHVRS1ZW8) - WrathOfMath
   - [Transitive closure](https://www.youtube.com/watch?v=OO8Jfs9uZnc) - GVSUmath
 
 #### Supplementary videos
